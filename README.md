@@ -1,7 +1,7 @@
 ### Hi there, its Bijosh 👋
 
 # 💫 About Me:
-🔭 Fifth Semester BCA-Fasttrack student at Christ University, Bangalore<br>👯 React, Python, Java Script , Cloud Computing<br>🌱 Currently Looking For Internships <br>💬 bijosh22@gmail.com
+🔭 3rd year Computer Science student at Christ University, Bangalore<br>👯 React, Python, Java Script , Cloud Computing<br>🌱 Currently Looking For Internships <br>💬 bijosh22@gmail.com
 
 
 ## 🌐 Socials:
