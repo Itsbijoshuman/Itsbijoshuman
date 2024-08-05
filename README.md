@@ -1,7 +1,7 @@
 ### Hi there, its Bijosh 👋
 
 # 💫 About Me:
-🔭 3rd year Computer Science student at Christ University, Bangalore<br>👯 React, Python, Java Script , Cloud Computing<br>🌱 Currently Looking For Peace :) <br>💬 bijosh22@gmail.com
+🔭 Computer Science Graduate at Christ University, Bangalore<br>💼 SDE @ Verizon, Hyderabad<br>👯 React, Python, Java Script , Cloud Computing<br>🌱 Currently Looking For Peace :) <br>💬 bijosh22@gmail.com
 
 
 ## 🌐 Socials:
